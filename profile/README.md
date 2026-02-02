@@ -39,13 +39,16 @@ DGXploits approaches security research with surgical precision. We believe that 
 
 <div align="center">
 
-```
-┌──────────┐      ┌────────────┐      ┌─────────┐      ┌──────────┐
-│ DISCOVER │─────▶│ UNDERSTAND │─────▶│ EXPLOIT │─────▶│ DISCLOSE │
-└──────────┘      └────────────┘      └─────────┘      └──────────┘
-     ▲                                                        │
-     │                                                        │
-     └────────────────────── IMPROVE ◀───────────────────────┘
+```mermaid
+graph LR
+    A[Discover] -->|Analyze| B[Understand]
+    B -->|Engineer| C[Exploit]
+    C -->|Document| D[Disclose]
+    D -->|Improve| A
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
 ```
 
 </div>
@@ -97,19 +100,19 @@ Comprehensive security assessments using offense-informed defense perspectives.
 ## 🔨 Research Methodology
 
 ```ascii
-┌────────────────────────────────────────────────────────┐
-│              DGXPLOITS METHODOLOGY                     │
-├────────────────────────────────────────────────────────┤
-│                                                        │
-│  1. RECONNAISSANCE     → Info gathering & mapping      │
-│  2. VULNERABILITY SCAN → Automated & manual discovery  │
-│  3. DEEP ANALYSIS      → Understanding technical gaps  │
-│  4. EXPLOIT DEV        → Controlled weaponization      │
-│  5. CHAIN ENGINEERING  → Multi-stage attack scenarios  │
-│  6. DOCUMENTATION      → Reproducible writeups         │
-│  7. DISCLOSURE         → Coordinated reporting         │
-│                                                        │
-└────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│                    DGXPLOITS METHODOLOGY                        │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  1. RECONNAISSANCE      →  Information gathering & mapping      │
+│  2. VULNERABILITY SCAN  →  Automated & manual discovery        │
+│  3. DEEP ANALYSIS       →  Understanding the technical gap     │
+│  4. EXPLOIT DEVELOPMENT →  Controlled weaponization            │
+│  5. CHAIN ENGINEERING   →  Multi-stage attack scenarios       │
+│  6. DOCUMENTATION       →  Reproducible technical writeups    │
+│  7. RESPONSIBLE DISCLOSURE → Coordinated vulnerability disclosure │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ## 🎨 Visual Identity
@@ -178,18 +181,18 @@ DGXploits adheres to strict ethical guidelines:
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║              TECHNICAL EXPERTISE                     ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  • Web App Security      • Binary Exploitation      ║
-║  • API Security          • Memory Corruption        ║
-║  • Cloud Infrastructure  • Privilege Escalation     ║
-║  • Network Protocols     • Auth Bypass              ║
-║  • Cryptographic Flaws   • Race Conditions          ║
-║  • Logic Flaws           • Deserialization          ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║                    TECHNICAL EXPERTISE                         ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  • Web Application Security  • Binary Exploitation            ║
+║  • API Security              • Memory Corruption              ║
+║  • Cloud Infrastructure      • Privilege Escalation           ║
+║  • Network Protocols         • Authentication Bypass          ║
+║  • Cryptographic Flaws       • Race Conditions                ║
+║  • Logic Vulnerabilities     • Deserialization Attacks        ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -227,14 +230,14 @@ appropriate channels based on context.
 <br/>
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   DGXploits • Understanding Meets Exploitation
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    DGXploits • Where Understanding Meets Exploitation
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <br/>
 
-<sub>© 2024 DGXploits. All research conducted under strict ethical guidelines and legal compliance.</sub>
+<sub>© 2026 DGXploits. All research conducted under strict ethical guidelines and legal compliance.</sub>
 
 <br/>
 
