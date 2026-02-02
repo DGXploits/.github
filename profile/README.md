@@ -10,7 +10,7 @@
 
 <br/>
 
-### 🎯 Security Research Organization
+###  Security Research Organization
 
 **Precision-driven vulnerability research** focusing on controlled exploitation, <br/>deep system understanding, and responsible disclosure.
 
@@ -71,33 +71,33 @@ Binary analysis, protocol dissection, and system internals exploration to uncove
 </td>
 <td width="50%" valign="top">
 
-### 🎖️ **Bug Bounty Research**
+###  **Bug Bounty Research**
 Systematic vulnerability hunting in authorized programs. Focus on high-impact findings and complex exploitation chains.
 
-### 📊 **Proof of Concept Engineering**
+###  **Proof of Concept Engineering**
 Creating reproducible, documented PoCs that demonstrate real-world impact while maintaining responsible disclosure standards.
 
-### 🔐 **Security Analysis**
+###  **Security Analysis**
 Comprehensive security assessments using offense-informed defense perspectives.
 
 </td>
 </tr>
 </table>
 
-## ⚡ Core Principles
+##  Core Principles
 
 <div align="center">
 
 | Principle | Description |
 |:---------:|:------------|
-| **🎯 Precision over Aggression** | Every action is calculated, measured, and purposeful |
-| **🧠 Understanding over Assumption** | Deep analysis before exploitation |
-| **⚖️ Control over Chaos** | Methodical approach to security research |
-| **🛡️ Ethics over Sensation** | Responsible disclosure and legal compliance |
+| ** Precision over Aggression** | Every action is calculated, measured, and purposeful |
+| ** Understanding over Assumption** | Deep analysis before exploitation |
+| ** Control over Chaos** | Methodical approach to security research |
+| ** Ethics over Sensation** | Responsible disclosure and legal compliance |
 
 </div>
 
-## 🔨 Research Methodology
+##  Research Methodology
 
 ```ascii
 ┌─────────────────────────────────────────────────────────────────┐
@@ -115,7 +115,7 @@ Comprehensive security assessments using offense-informed defense perspectives.
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-## 🎨 Visual Identity
+##  Visual Identity
 
 <div align="center">
 
@@ -133,14 +133,14 @@ Comprehensive security assessments using offense-informed defense perspectives.
 
 ## 📋 Scope of Activities
 
-- ✅ **Authorized Penetration Testing** - Systems with explicit permission
-- ✅ **Bug Bounty Programs** - Official, sanctioned vulnerability research
-- ✅ **Lab Environments** - Controlled testing and research setups
-- ✅ **Security Tool Development** - Internal research tooling
-- ✅ **Vulnerability Chaining** - Multi-stage exploitation research
-- ✅ **Technical Documentation** - Reproducible security advisories
+-  **Authorized Penetration Testing** - Systems with explicit permission
+-  **Bug Bounty Programs** - Official, sanctioned vulnerability research
+-  **Lab Environments** - Controlled testing and research setups
+-  **Security Tool Development** - Internal research tooling
+-  **Vulnerability Chaining** - Multi-stage exploitation research
+-  **Technical Documentation** - Reproducible security advisories
 
-## 🚫 Ethical Boundaries
+##  Ethical Boundaries
 
 <div align="center">
 
@@ -154,7 +154,7 @@ Comprehensive security assessments using offense-informed defense perspectives.
 
 </div>
 
-## 🛡️ Responsible Disclosure Policy
+##  Responsible Disclosure Policy
 
 DGXploits adheres to strict ethical guidelines:
 
@@ -166,17 +166,17 @@ DGXploits adheres to strict ethical guidelines:
 5. Maintain transparency in research process
 ```
 
-## 📚 Brand Usage
+##  Brand Usage
 
 **DGXploits** identifier is used for:
 
-- 🔬 Security research publications
-- 🛠️ Internal tooling and frameworks
-- 📖 Technical documentation and advisories
-- 🎓 Educational content and writeups
-- 🤝 Community engagement and collaboration
+-  Security research publications
+-  Internal tooling and frameworks
+-  Technical documentation and advisories
+-  Educational content and writeups
+-  Community engagement and collaboration
 
-## 🌐 Research Areas
+##  Research Areas
 
 <div align="center">
 
@@ -197,7 +197,7 @@ DGXploits adheres to strict ethical guidelines:
 
 </div>
 
-## 🤝 Collaboration & Contact
+##  Collaboration & Contact
 
 <div align="center">
 
@@ -219,7 +219,7 @@ appropriate channels based on context.
 
 <div align="center">
 
-### 🎯 Mission Statement
+###  Mission Statement
 
 **Understand the system. Find the gap. Control the access.**
 
